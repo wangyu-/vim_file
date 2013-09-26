@@ -1,6 +1,9 @@
 
 set nocompatible
 
+
+set laststatus=2
+"vim -V启动，可以看vim加载了哪些文
 "set list "显示不可见字符
 
 set backspace=indent,eol,start  " more powerful backspacing
